@@ -1,4 +1,4 @@
-Expansion_Coefficients
-======================
+Sequences
+=========
 
-Contains a table of different series expansions
+Provides table of different sequences
